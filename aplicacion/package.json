@@ -1,0 +1,12 @@
+{
+  "name": "docker-node-example",
+  "version": "1.0.0",
+  "description": "Ejemplo básico de Node.js con Docker",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
